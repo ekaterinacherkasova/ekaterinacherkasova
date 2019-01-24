@@ -1,6 +1,6 @@
 @font-face {
 	font-family: Font Awesome 5 Pro;
-	src: url(//taplink.cc/s/fonts/fa-regular-400.eot?#iefix) format("embedded-opentype"), url(//taplink.cc/s/fonts/fa-regular-400.woff2) format("woff2"), url(//taplink.cc/s/fonts/fa-regular-400.woff) format("woff"), url(//taplink.cc/s/fonts/fa-regular-400.ttf) format("truetype"), url(//taplink.cc/s/fonts/fa-regular-400.svg#fontawesome) format("svg");
+	src: url(./files/fonts/fa-regular-400.eot?#iefix) format("embedded-opentype"), url(./files/fonts/fa-regular-400.woff2) format("woff2"), url(./files/fonts/fa-regular-400.woff) format("woff"), url(./files/fonts/fa-regular-400.ttf) format("truetype"), url(./files/fonts/fa-regular-400.svg#fontawesome) format("svg");
 	font-weight: 400;
 	font-style: normal;
 }
@@ -5676,10 +5676,10 @@ a.tag:hover {
 	content: ">";
 }
 .has-bullet-separator.breadcrumb li + li::before {
-	content: "ï";
+	content: "¬ï";
 }
 .has-dot-separator.breadcrumb li + li::before {
-	content: "∑";
+	content: "¬∑";
 }
 .has-succeeds-separator.breadcrumb li + li::before {
 	content: "?";
@@ -19281,7 +19281,7 @@ mx-item .checkbox {
 	border-radius: 2px; width: 80px; height: 34px; color: rgb(255, 255, 255); font-weight: 400; margin-bottom: 0px; display: inline-block; position: relative; cursor: pointer; align-self: center; -webkit-align-self: center;
 }
 .mx-toggle::after {
-	left: 0px; top: 0px; width: 52px; text-align: center; line-height: 32px; position: absolute; content: "ƒ‡";
+	left: 0px; top: 0px; width: 52px; text-align: center; line-height: 32px; position: absolute; content: "√Ñ√†";
 }
 [data-true-value].mx-toggle::after {
 	content: attr(data-true-value);
@@ -19290,7 +19290,7 @@ mx-item .checkbox {
 	background: rgb(104, 116, 123); margin: 0px; padding: 0px; border-radius: 2px; border: 2px solid rgba(0, 0, 0, 0.2); border-image: none; width: 80px; height: 34px; position: relative; z-index: 1; cursor: pointer; pointer-events: none; transition-duration: 0.3s; -moz-appearance: none; -webkit-appearance: none; appearance: none; -webkit-transition-duration: .3s; -ms-appearance: none;
 }
 .mx-toggle div::before {
-	background: rgb(130, 145, 153); border-radius: 2px; left: 0px; top: 0px; width: 76px; height: 30px; text-align: center; line-height: 31px; padding-left: 30px; position: absolute; z-index: 1; content: "ÕÂÚ"; transform: scale(1); transition-duration: 0.3s; -webkit-transform: scale(1); -webkit-transition-duration: .3s;
+	background: rgb(130, 145, 153); border-radius: 2px; left: 0px; top: 0px; width: 76px; height: 30px; text-align: center; line-height: 31px; padding-left: 30px; position: absolute; z-index: 1; content: "√ç√•√≤"; transform: scale(1); transition-duration: 0.3s; -webkit-transform: scale(1); -webkit-transition-duration: .3s;
 }
 .mx-toggle div[data-false-value]::before {
 	content: attr(data-false-value);

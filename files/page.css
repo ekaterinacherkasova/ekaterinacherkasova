@@ -4,24 +4,7 @@
 	font-weight: 400;
 	font-style: normal;
 }
-@font-face {
-	font-family: Font Awesome 5 Pro;
-	src: url(//taplink.cc/s/fonts/fa-light-300.eot?#iefix) format("embedded-opentype"), url(//taplink.cc/s/fonts/fa-light-300.woff2?5.3.1) format("woff2"), url(//taplink.cc/s/fonts/fa-light-300.woff?5.3.1) format("woff"), url(//taplink.cc/s/fonts/fa-light-300.ttf?5.3.1) format("truetype"), url(//taplink.cc/s/fonts/fa-light-300.svg#fontawesome) format("svg");
-	font-weight: 300;
-	font-style: normal;
-}
-@font-face {
-	font-family: Font Awesome 5 Pro;
-	src: url(//taplink.cc/s/fonts/fa-solid-900.eot?#iefix) format("embedded-opentype"), url(//taplink.cc/s/fonts/fa-solid-900.woff2) format("woff2"), url(//taplink.cc/s/fonts/fa-solid-900.woff) format("woff"), url(//taplink.cc/s/fonts/fa-solid-900.ttf) format("truetype"), url(//taplink.cc/s/fonts/fa-solid-900.svg#fontawesome) format("svg");
-	font-weight: 900;
-	font-style: normal;
-}
-@font-face {
-	font-family: brands;
-	src: url(/s/fonts/brands.eot?#iefix) format("embedded-opentype"), url(/s/fonts/brands.woff?1) format("woff"), url(/s/fonts/brands.ttf?1) format("truetype"), url(/s/fonts/brands.svg#brands) format("svg");
-	font-weight: 400;
-	font-style: normal;
-}
+
 .is-noscroll {
 	width: 100%; bottom: 0px; position: fixed; -ms-overflow-y: hidden;
 }

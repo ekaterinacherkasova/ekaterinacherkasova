@@ -1,3 +1,7 @@
+iframe {
+  display: inline-block;	
+}
+
 img {
   width: 48%;
   display: inline-block;

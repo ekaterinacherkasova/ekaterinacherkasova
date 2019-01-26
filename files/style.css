@@ -1,9 +1,15 @@
+img {
+  width: 100%;
+  height: auto;
+}
+
 .read-more-button {
 	display: inline-block; 
 	padding: 17px 20px;
 	border-radius: 40px;
 	border-bottom: ridge;
 }
+
 .read-more-button:hover {
 	box-shadow: 0 15px 69px rgba(0, 0, 0, 0.21);
 }

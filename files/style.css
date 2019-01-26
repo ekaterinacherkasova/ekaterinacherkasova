@@ -1,5 +1,6 @@
 iframe {
   width: 96%;
+  height: auto;
   display: inline-block;	
 }
 
